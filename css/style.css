@@ -8,12 +8,12 @@
     list-style: none;
 }
 body {
-    background: url(/image/white-talcume-powder-explosion-black\ 2\ \(2\).jpg) no-repeat center / cover;
+    background: url(/Dinavo/image/white-talcume-powder-explosion-black\ 2\ \(2\).jpg) no-repeat center / cover;
 }
 /* MAIN_BLOCK */
 .main_block {
     width: 100%;
-    background: url(/image/Rectangle\ 1.png) no-repeat center / cover;
+    background: url(/Dinavo/image/Rectangle\ 1.png) no-repeat center / cover;
     background-color:  rgb(0, 0, 0);
     display: flex;
     justify-content: center;
@@ -879,7 +879,7 @@ height: 60px;
 }
 @media (max-width: 1300px) {
     .main_block{
-        background: url(/image/Rectangle\ 1\ \(1\).png) no-repeat center / cover;
+        background: url(/Dinavo/image/Rectangle\ 1\ \(1\).png) no-repeat center / cover;
     }
 }
 @media (max-width: 988px) {
